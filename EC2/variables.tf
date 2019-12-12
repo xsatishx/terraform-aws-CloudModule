@@ -11,7 +11,6 @@ variable "instance_type" {
 }
 
 variable "name" {
-  default     = "terraform-instance"
   description = "Assign this name to the instance"
 }
 
